@@ -1,3 +1,4 @@
+
 # SmartLight Solar
 
 O  SmartLight Solar é um aplicativo de automação residencial que combina conforto, tecnologia e sustentabilidade.  
@@ -80,6 +81,4 @@ Amom Ianaguivara Brito
 Igor Marques Fernandes
 Victor Chen
 Fernando Antonio de Oliveira Ferraz
-
-# Demonstração do aplicativo
 
